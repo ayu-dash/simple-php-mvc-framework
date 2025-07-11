@@ -1,0 +1,15 @@
+{
+    "name": "ayudash/simple-php-mvc-framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ayudash"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
