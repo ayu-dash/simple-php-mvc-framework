@@ -4,7 +4,7 @@
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
           <h5 class="text-uppercase">MyWebsite</h5>
           <p>
-            Made with ❤️ by Lina. Powered by Bootstrap 5 and good vibes.
+            Made with ❤️.
           </p>
         </div>
 
